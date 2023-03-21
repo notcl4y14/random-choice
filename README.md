@@ -16,4 +16,4 @@ To add an option to the list, type anything and press Enter.
 3. In the terminal, open the directory with the project and type `node .`
 
 # Note
-### Yes, I forgot to add `:l, :list` to the commands list :P
+Yes, I forgot to add `:l, :list` to the commands list :P
