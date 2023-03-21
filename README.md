@@ -6,6 +6,7 @@ Commands:
 - :h, :help - Show this list
 - :r, :roll - Get a random option from the list
 - :c, :clear - Clear the list
+
 To add an option to the list, type anything and press Enter.
 
 # How to run this program
